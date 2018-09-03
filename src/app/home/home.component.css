@@ -1,0 +1,37 @@
+.btn_,.btn_:visited{
+    background-color: #7e7979;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+}
+.font{
+    font-family: Stencil Std, fantasy;
+}
+
+
+.btn_:hover, a:active {
+    background-color: rgb(63, 62, 62);
+    color: beige;
+}
+.selected{
+    background-color: rgba(96, 70, 243, 0.623);
+    color: black;
+}
+div{
+    color: antiquewhite;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(224, 222, 222, 0.2);
+    transition: 0.3s;
+    width: 220px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgb(255, 255, 255);
+}
+
+.container {
+    padding: 2px 16px;
+}

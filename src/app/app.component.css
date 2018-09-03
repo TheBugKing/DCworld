@@ -1,0 +1,22 @@
+.inline{
+    display:inline-block;
+     padding: 5px;
+     color: darkgray;
+}
+.inline:hover{
+    display:inline-block;
+     padding: 5px;
+     background-color: black;
+     color: rgb(231, 226, 226);
+     text-shadow: 20%;
+}
+.button:active{
+    display:inline-block;
+     padding: 5px;
+     background-color:black;
+     text-shadow: 20%;
+}
+
+div{
+    color: azure;
+}
